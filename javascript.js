@@ -9,4 +9,5 @@ function criarAgendas() {
     console.log(JSON.stringify(dataFinal))
   }
 }
+
 criarAgendas();
